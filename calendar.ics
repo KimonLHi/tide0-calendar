@@ -1,0 +1,121 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tide0//Santa Monica Tide Forecast//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Santa Monica favorable tide windows
+X-WR-TIMEZONE:America/Los_Angeles
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+BEGIN:VEVENT
+UID:3b630997647162809b9763c3@tide0.klhi.net
+DTSTAMP:20261030T213903Z
+DTSTART:20261031T020000Z
+DTEND:20261031T060000Z
+SUMMARY:Favorable wet-sand run window · 99.3th modeled percentile
+DESCRIPTION:Estimated favorable window lasting 4 hours. Mean raw model sc
+ ore 63.8/100\; mean sand score 59.0/100\; confidence 93.0/100. Model-rel
+ ative heuristic\, not a probability or beach safety assessment. Check lo
+ cal surf\, access\, and water advisories.
+LOCATION:Santa Monica Beach near the Pier
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:274ff79fd2ff904ff5224897@tide0.klhi.net
+DTSTAMP:20261030T213903Z
+DTSTART:20261101T040000Z
+DTEND:20261101T060000Z
+SUMMARY:Favorable wet-sand run window · 98.5th modeled percentile
+DESCRIPTION:Estimated favorable window lasting 2 hours. Mean raw model sc
+ ore 63.8/100\; mean sand score 59.1/100\; confidence 88.0/100. Model-rel
+ ative heuristic\, not a probability or beach safety assessment. Check lo
+ cal surf\, access\, and water advisories.
+LOCATION:Santa Monica Beach near the Pier
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:66771bb1f3e721d15b7950ca@tide0.klhi.net
+DTSTAMP:20261030T213903Z
+DTSTART:20261102T050000Z
+DTEND:20261102T070000Z
+SUMMARY:Favorable wet-sand run window · 96.7th modeled percentile
+DESCRIPTION:Estimated favorable window lasting 2 hours. Mean raw model sc
+ ore 60.5/100\; mean sand score 54.9/100\; confidence 88.0/100. Model-rel
+ ative heuristic\, not a probability or beach safety assessment. Check lo
+ cal surf\, access\, and water advisories.
+LOCATION:Santa Monica Beach near the Pier
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:88b09a2055921c4a67518c8b@tide0.klhi.net
+DTSTAMP:20261030T213903Z
+DTSTART:20261109T220000Z
+DTEND:20261110T020000Z
+SUMMARY:Favorable wet-sand run window · 100.0th modeled percentile
+DESCRIPTION:Estimated favorable window lasting 4 hours. Mean raw model sc
+ ore 67.9/100\; mean sand score 69.0/100\; confidence 71.5/100. Model-rel
+ ative heuristic\, not a probability or beach safety assessment. Check lo
+ cal surf\, access\, and water advisories.
+LOCATION:Santa Monica Beach near the Pier
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:18956399a7f0819d3216a7d8@tide0.klhi.net
+DTSTAMP:20261030T213903Z
+DTSTART:20261110T230000Z
+DTEND:20261111T020000Z
+SUMMARY:Favorable wet-sand run window · 99.9th modeled percentile
+DESCRIPTION:Estimated favorable window lasting 3 hours. Mean raw model sc
+ ore 69.0/100\; mean sand score 70.4/100\; confidence 71.5/100. Model-rel
+ ative heuristic\, not a probability or beach safety assessment. Check lo
+ cal surf\, access\, and water advisories.
+LOCATION:Santa Monica Beach near the Pier
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:80ff4d20c52a0dbe7788a7b2@tide0.klhi.net
+DTSTAMP:20261030T213903Z
+DTSTART:20261112T000000Z
+DTEND:20261112T030000Z
+SUMMARY:Favorable wet-sand run window · 99.0th modeled percentile
+DESCRIPTION:Estimated favorable window lasting 3 hours. Mean raw model sc
+ ore 63.3/100\; mean sand score 66.9/100\; confidence 71.5/100. Model-rel
+ ative heuristic\, not a probability or beach safety assessment. Check lo
+ cal surf\, access\, and water advisories.
+LOCATION:Santa Monica Beach near the Pier
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bfc6900ab850bb10ac2edf98@tide0.klhi.net
+DTSTAMP:20261030T213903Z
+DTSTART:20261113T010000Z
+DTEND:20261113T030000Z
+SUMMARY:Favorable wet-sand run window · 99.1th modeled percentile
+DESCRIPTION:Estimated favorable window lasting 2 hours. Mean raw model sc
+ ore 65.0/100\; mean sand score 64.5/100\; confidence 71.5/100. Model-rel
+ ative heuristic\, not a probability or beach safety assessment. Check lo
+ cal surf\, access\, and water advisories.
+LOCATION:Santa Monica Beach near the Pier
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:56e58b9fa70a6750f80bc7dc@tide0.klhi.net
+DTSTAMP:20261030T213903Z
+DTSTART:20261114T020000Z
+DTEND:20261114T040000Z
+SUMMARY:Favorable wet-sand run window · 97.2th modeled percentile
+DESCRIPTION:Estimated favorable window lasting 2 hours. Mean raw model sc
+ ore 60.9/100\; mean sand score 58.0/100\; confidence 71.5/100. Model-rel
+ ative heuristic\, not a probability or beach safety assessment. Check lo
+ cal surf\, access\, and water advisories.
+LOCATION:Santa Monica Beach near the Pier
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
