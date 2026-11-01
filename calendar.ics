@@ -7,13 +7,13 @@ X-WR-CALNAME:Santa Monica favorable tide windows
 X-WR-TIMEZONE:America/Los_Angeles
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:0cf88d0e049052d1acde896c@tide0.klhi.net
-DTSTAMP:20261101T001051Z
-DTSTART:20261101T030000Z
-DTEND:20261101T060000Z
-SUMMARY:Favorable wet-sand run window · 99.8th modeled percentile
-DESCRIPTION:Estimated favorable window lasting 3 hours. Mean raw model sc
- ore 66.5/100\; mean sand score 63.5/100\; confidence 50.0/100. Model-rel
+UID:f1fb9eb273fcdc7035c7bc60@tide0.klhi.net
+DTSTAMP:20261101T175348Z
+DTSTART:20261101T170000Z
+DTEND:20261101T210000Z
+SUMMARY:Favorable wet-sand run window · 35.9th modeled percentile
+DESCRIPTION:Estimated favorable window lasting 4 hours. Mean raw model sc
+ ore 28.5/100\; mean sand score 19.3/100\; confidence 93.0/100. Model-rel
  ative heuristic\, not a probability or beach safety assessment. Check lo
  cal surf\, access\, and water advisories.
 LOCATION:Santa Monica Beach near the Pier
@@ -21,13 +21,71 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:66771bb1f3e721d15b7950ca@tide0.klhi.net
-DTSTAMP:20261101T001051Z
-DTSTART:20261102T050000Z
-DTEND:20261102T070000Z
-SUMMARY:Favorable wet-sand run window · 97.1th modeled percentile
-DESCRIPTION:Estimated favorable window lasting 2 hours. Mean raw model sc
- ore 61.1/100\; mean sand score 55.6/100\; confidence 88.0/100. Model-rel
+UID:af1ac2db86419fe06342ddd5@tide0.klhi.net
+DTSTAMP:20261101T175348Z
+DTSTART:20261101T220000Z
+DTEND:20261103T230000Z
+SUMMARY:Favorable wet-sand run window · 96.8th modeled percentile
+DESCRIPTION:Estimated favorable window lasting 49 hours. Mean raw model s
+ core 36.0/100\; mean sand score 26.0/100\; confidence 88.8/100. Model-re
+ lative heuristic\, not a probability or beach safety assessment. Check l
+ ocal surf\, access\, and water advisories.
+LOCATION:Santa Monica Beach near the Pier
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1cfbedc3f8c98acc4bbc785e@tide0.klhi.net
+DTSTAMP:20261101T175348Z
+DTSTART:20261104T010000Z
+DTEND:20261104T120000Z
+SUMMARY:Favorable wet-sand run window · 89.0th modeled percentile
+DESCRIPTION:Estimated favorable window lasting 11 hours. Mean raw model s
+ core 35.3/100\; mean sand score 24.5/100\; confidence 88.0/100. Model-re
+ lative heuristic\, not a probability or beach safety assessment. Check l
+ ocal surf\, access\, and water advisories.
+LOCATION:Santa Monica Beach near the Pier
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c6a9b1d9441c5e0967dc246d@tide0.klhi.net
+DTSTAMP:20261101T175348Z
+DTSTART:20261104T130000Z
+DTEND:20261105T120000Z
+SUMMARY:Favorable wet-sand run window · 83.6th modeled percentile
+DESCRIPTION:Estimated favorable window lasting 23 hours. Mean raw model s
+ core 33.6/100\; mean sand score 22.1/100\; confidence 87.4/100. Model-re
+ lative heuristic\, not a probability or beach safety assessment. Check l
+ ocal surf\, access\, and water advisories.
+LOCATION:Santa Monica Beach near the Pier
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:56c352e76eb5881687c1557a@tide0.klhi.net
+DTSTAMP:20261101T175348Z
+DTSTART:20261105T130000Z
+DTEND:20261114T190000Z
+SUMMARY:Extended forecast window · 98.9th modeled percentile
+DESCRIPTION:Extended marine forecast\; confidence is lower than in the fi
+ rst week. Estimated favorable window lasting 222 hours. Mean raw model s
+ core 37.0/100\; mean sand score 27.2/100\; confidence 81.1/100. Model-re
+ lative heuristic\, not a probability or beach safety assessment. Check l
+ ocal surf\, access\, and water advisories.
+LOCATION:Santa Monica Beach near the Pier
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ebc3ffa9776f02fb2c73fc1b@tide0.klhi.net
+DTSTAMP:20261101T175348Z
+DTSTART:20261114T200000Z
+DTEND:20261115T190000Z
+SUMMARY:Extended forecast window · 91.8th modeled percentile
+DESCRIPTION:Extended marine forecast\; confidence is lower than in the fi
+ rst week. Estimated favorable window lasting 23 hours. Mean raw model sc
+ ore 34.8/100\; mean sand score 25.8/100\; confidence 71.5/100. Model-rel
  ative heuristic\, not a probability or beach safety assessment. Check lo
  cal surf\, access\, and water advisories.
 LOCATION:Santa Monica Beach near the Pier
@@ -35,59 +93,44 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:18956399a7f0819d3216a7d8@tide0.klhi.net
-DTSTAMP:20261101T001051Z
-DTSTART:20261110T230000Z
-DTEND:20261111T020000Z
-SUMMARY:Extended forecast window · 99.9th modeled percentile
+UID:3cf6f811e7522a94a22cdae5@tide0.klhi.net
+DTSTAMP:20261101T175348Z
+DTSTART:20261115T210000Z
+DTEND:20261116T210000Z
+SUMMARY:Extended forecast window · 89.9th modeled percentile
 DESCRIPTION:Extended marine forecast\; confidence is lower than in the fi
- rst week. Estimated favorable window lasting 3 hours. Mean raw model sco
- re 69.0/100\; mean sand score 70.4/100\; confidence 72.5/100. Model-rela
- tive heuristic\, not a probability or beach safety assessment. Check loc
- al surf\, access\, and water advisories.
+ rst week. Estimated favorable window lasting 24 hours. Mean raw model sc
+ ore 32.9/100\; mean sand score 22.6/100\; confidence 71.5/100. Model-rel
+ ative heuristic\, not a probability or beach safety assessment. Check lo
+ cal surf\, access\, and water advisories.
 LOCATION:Santa Monica Beach near the Pier
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:80ff4d20c52a0dbe7788a7b2@tide0.klhi.net
-DTSTAMP:20261101T001051Z
-DTSTART:20261112T000000Z
-DTEND:20261112T030000Z
-SUMMARY:Extended forecast window · 99.0th modeled percentile
+UID:42e897ecbb10926b34137beb@tide0.klhi.net
+DTSTAMP:20261101T175348Z
+DTSTART:20261116T220000Z
+DTEND:20261117T120000Z
+SUMMARY:Extended forecast window · 89.8th modeled percentile
 DESCRIPTION:Extended marine forecast\; confidence is lower than in the fi
- rst week. Estimated favorable window lasting 3 hours. Mean raw model sco
- re 63.3/100\; mean sand score 66.9/100\; confidence 71.5/100. Model-rela
- tive heuristic\, not a probability or beach safety assessment. Check loc
- al surf\, access\, and water advisories.
+ rst week. Estimated favorable window lasting 14 hours. Mean raw model sc
+ ore 34.9/100\; mean sand score 24.6/100\; confidence 64.0/100. Model-rel
+ ative heuristic\, not a probability or beach safety assessment. Check lo
+ cal surf\, access\, and water advisories.
 LOCATION:Santa Monica Beach near the Pier
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:bfc6900ab850bb10ac2edf98@tide0.klhi.net
-DTSTAMP:20261101T001051Z
-DTSTART:20261113T010000Z
-DTEND:20261113T030000Z
-SUMMARY:Extended forecast window · 99.1th modeled percentile
+UID:ae4234d212c552182b5cc578@tide0.klhi.net
+DTSTAMP:20261101T175348Z
+DTSTART:20261117T130000Z
+DTEND:20261117T180000Z
+SUMMARY:Extended forecast window · 26.1th modeled percentile
 DESCRIPTION:Extended marine forecast\; confidence is lower than in the fi
- rst week. Estimated favorable window lasting 2 hours. Mean raw model sco
- re 65.0/100\; mean sand score 64.5/100\; confidence 71.5/100. Model-rela
- tive heuristic\, not a probability or beach safety assessment. Check loc
- al surf\, access\, and water advisories.
-LOCATION:Santa Monica Beach near the Pier
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:56e58b9fa70a6750f80bc7dc@tide0.klhi.net
-DTSTAMP:20261101T001051Z
-DTSTART:20261114T020000Z
-DTEND:20261114T040000Z
-SUMMARY:Extended forecast window · 97.2th modeled percentile
-DESCRIPTION:Extended marine forecast\; confidence is lower than in the fi
- rst week. Estimated favorable window lasting 2 hours. Mean raw model sco
- re 60.9/100\; mean sand score 58.0/100\; confidence 71.5/100. Model-rela
+ rst week. Estimated favorable window lasting 5 hours. Mean raw model sco
+ re 29.2/100\; mean sand score 13.5/100\; confidence 36.5/100. Model-rela
  tive heuristic\, not a probability or beach safety assessment. Check loc
  al surf\, access\, and water advisories.
 LOCATION:Santa Monica Beach near the Pier
@@ -96,7 +139,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:4ff2eb601930c49fd33893fb@tide0.klhi.net
-DTSTAMP:20261101T001051Z
+DTSTAMP:20261101T175348Z
 DTSTART:20261123T210000Z
 DTEND:20261124T000000Z
 SUMMARY:Tide-led outlook (provisional) · 100.0th modeled percentile
@@ -113,7 +156,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:e336dfb92f861053ec1eecc1@tide0.klhi.net
-DTSTAMP:20261101T001051Z
+DTSTAMP:20261101T175348Z
 DTSTART:20261124T220000Z
 DTEND:20261125T010000Z
 SUMMARY:Tide-led outlook (provisional) · 100.0th modeled percentile
@@ -130,7 +173,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:1975073b27f3fb04c1fddb13@tide0.klhi.net
-DTSTAMP:20261101T001051Z
+DTSTAMP:20261101T175348Z
 DTSTART:20261125T220000Z
 DTEND:20261126T020000Z
 SUMMARY:Tide-led outlook (provisional) · 100.0th modeled percentile
@@ -147,7 +190,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:9981fd7afbf29685ae2eafc5@tide0.klhi.net
-DTSTAMP:20261101T001051Z
+DTSTAMP:20261101T175348Z
 DTSTART:20261127T000000Z
 DTEND:20261127T020000Z
 SUMMARY:Tide-led outlook (provisional) · 100.0th modeled percentile
@@ -164,7 +207,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:0505ab53f84b93e5f71533d4@tide0.klhi.net
-DTSTAMP:20261101T001051Z
+DTSTAMP:20261101T175348Z
 DTSTART:20261128T010000Z
 DTEND:20261128T040000Z
 SUMMARY:Tide-led outlook (provisional) · 100.0th modeled percentile
@@ -181,7 +224,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:1fbb0c9ea24f898cceac16a0@tide0.klhi.net
-DTSTAMP:20261101T001051Z
+DTSTAMP:20261101T175348Z
 DTSTART:20261207T220000Z
 DTEND:20261208T000000Z
 SUMMARY:Tide-led outlook (provisional) · 100.0th modeled percentile
@@ -198,7 +241,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:f7a848b095a6734d8d3cbff6@tide0.klhi.net
-DTSTAMP:20261101T001051Z
+DTSTAMP:20261101T175348Z
 DTSTART:20261209T230000Z
 DTEND:20261210T010000Z
 SUMMARY:Tide-led outlook (provisional) · 100.0th modeled percentile
@@ -215,7 +258,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:f13bcfec14d89d72daed6c54@tide0.klhi.net
-DTSTAMP:20261101T001051Z
+DTSTAMP:20261101T175348Z
 DTSTART:20261221T200000Z
 DTEND:20261221T230000Z
 SUMMARY:Tide-led outlook (provisional) · 100.0th modeled percentile
@@ -232,7 +275,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:97fdb425c356e845e8e8bb22@tide0.klhi.net
-DTSTAMP:20261101T001051Z
+DTSTAMP:20261101T175348Z
 DTSTART:20261222T210000Z
 DTEND:20261223T000000Z
 SUMMARY:Tide-led outlook (provisional) · 100.0th modeled percentile
@@ -249,7 +292,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:5d05a40aaddd7b44801f562a@tide0.klhi.net
-DTSTAMP:20261101T001051Z
+DTSTAMP:20261101T175348Z
 DTSTART:20261223T210000Z
 DTEND:20261224T010000Z
 SUMMARY:Tide-led outlook (provisional) · 100.0th modeled percentile
@@ -266,7 +309,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:31e2f58e17ad1a011c66e09f@tide0.klhi.net
-DTSTAMP:20261101T001051Z
+DTSTAMP:20261101T175348Z
 DTSTART:20261224T220000Z
 DTEND:20261225T020000Z
 SUMMARY:Tide-led outlook (provisional) · 100.0th modeled percentile
@@ -283,7 +326,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:f22c258ce008fbd9ad851e37@tide0.klhi.net
-DTSTAMP:20261101T001051Z
+DTSTAMP:20261101T175348Z
 DTSTART:20261225T230000Z
 DTEND:20261226T020000Z
 SUMMARY:Tide-led outlook (provisional) · 100.0th modeled percentile
@@ -300,7 +343,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:757e4e26bc7777f02616d15f@tide0.klhi.net
-DTSTAMP:20261101T001051Z
+DTSTAMP:20261101T175348Z
 DTSTART:20261227T000000Z
 DTEND:20261227T030000Z
 SUMMARY:Tide-led outlook (provisional) · 100.0th modeled percentile
@@ -317,7 +360,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:c1f536d9709120a08cdab711@tide0.klhi.net
-DTSTAMP:20261101T001051Z
+DTSTAMP:20261101T175348Z
 DTSTART:20270106T220000Z
 DTEND:20270107T000000Z
 SUMMARY:Tide-led outlook (provisional) · 100.0th modeled percentile
@@ -334,7 +377,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:56bc8b0a2b8620996dec1206@tide0.klhi.net
-DTSTAMP:20261101T001051Z
+DTSTAMP:20261101T175348Z
 DTSTART:20270107T230000Z
 DTEND:20270108T010000Z
 SUMMARY:Tide-led outlook (provisional) · 100.0th modeled percentile
@@ -351,7 +394,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:705766a0eb716bed44b61f6b@tide0.klhi.net
-DTSTAMP:20261101T001051Z
+DTSTAMP:20261101T175348Z
 DTSTART:20270119T200000Z
 DTEND:20270119T230000Z
 SUMMARY:Tide-led outlook (provisional) · 100.0th modeled percentile
@@ -368,7 +411,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:c6166773d42a69eedd9c83cd@tide0.klhi.net
-DTSTAMP:20261101T001051Z
+DTSTAMP:20261101T175348Z
 DTSTART:20270120T200000Z
 DTEND:20270121T000000Z
 SUMMARY:Tide-led outlook (provisional) · 100.0th modeled percentile
@@ -385,7 +428,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2d4ab54afe08975a2f94be3e@tide0.klhi.net
-DTSTAMP:20261101T001051Z
+DTSTAMP:20261101T175348Z
 DTSTART:20270121T210000Z
 DTEND:20270122T010000Z
 SUMMARY:Tide-led outlook (provisional) · 100.0th modeled percentile
@@ -402,7 +445,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:846c901cedb2b41efa149939@tide0.klhi.net
-DTSTAMP:20261101T001051Z
+DTSTAMP:20261101T175348Z
 DTSTART:20270122T220000Z
 DTEND:20270123T020000Z
 SUMMARY:Tide-led outlook (provisional) · 100.0th modeled percentile
@@ -419,7 +462,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:0325bce606053d2de21b110c@tide0.klhi.net
-DTSTAMP:20261101T001051Z
+DTSTAMP:20261101T175348Z
 DTSTART:20270123T230000Z
 DTEND:20270124T020000Z
 SUMMARY:Tide-led outlook (provisional) · 100.0th modeled percentile
@@ -436,7 +479,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:088a397c8a7b5fc8d1980e58@tide0.klhi.net
-DTSTAMP:20261101T001051Z
+DTSTAMP:20261101T175348Z
 DTSTART:20270125T000000Z
 DTEND:20270125T020000Z
 SUMMARY:Tide-led outlook (provisional) · 100.0th modeled percentile
